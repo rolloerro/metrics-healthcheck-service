@@ -1,0 +1,3 @@
+🛰️ metrics-healthcheck-service — Cloud Native / Kubernetes Edition
+
+<p align="center"> <img alt="banner" src="https://img.shields.io/badge/Metrics--Healthcheck-CloudNative-00d1ff?style=for-the-badge&logo=prometheus&logoColor=white"/> <img alt="k8s" src="https://img.shields.io/badge/Kubernetes-ready-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img alt="docker" src="https://img.shields.io/badge/Docker-image-blue?style=for-the-badge&logo=docker&logoColor=white"/> <img alt="ci" src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> </p>
